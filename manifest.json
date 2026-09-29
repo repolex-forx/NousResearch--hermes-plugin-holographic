@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-holographic",
+  "versions": [
+    {
+      "commit": "246d9c723a79ea07bd7455bf4b364b44269526cf",
+      "parsed_at": "2026-09-29T19:05:16.271248+00:00",
+      "tag": "main",
+      "filetree": "filetree/246d9c723a79ea07bd7455bf4b364b44269526cf.nq.gz",
+      "blobs": [
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/00f2d38d8063d0c6b219c0081e51888063b0c55e.nq.gz",
+        "blob/27fa77bc2949c992f639c0f4b786f78dc81c6eaf.nq.gz",
+        "blob/5f58193d095b5c4c629a5d1422fd21a34745ed0c.nq.gz",
+        "blob/05176df2ec33233225b558d3fa727a19376b15f3.nq.gz",
+        "blob/a913cf2d394a1f452674a64b60de0589e6e423d6.nq.gz",
+        "blob/ae7d78f8daed3d88133f4b8587179c2314802b38.nq.gz",
+        "blob/1383e942bcb2405dfa81bd54d9c301b44a7a5803.nq.gz",
+        "blob/aede5a1323e1f3fe5009fb41e2f19ac80dbc3cdd.nq.gz",
+        "blob/e51f120bb2a8b7ff4fd0171345ce4b8de85625c6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
