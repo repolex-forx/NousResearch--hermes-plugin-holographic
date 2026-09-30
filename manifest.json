@@ -34,7 +34,9 @@
           "githubUrl": "https://github.com/numpy/numpy",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/246d9c723a79ea07bd7455bf4b364b44269526cf/chunk-001.nq.gz",
+      "dep": "dep/246d9c723a79ea07bd7455bf4b364b44269526cf.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
