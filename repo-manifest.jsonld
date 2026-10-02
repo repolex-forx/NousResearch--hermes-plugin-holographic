@@ -15,7 +15,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-holographic/commit/062762ab1e67dd2eeb5500dfd38785b93cb9b0e8",
       "git:hexsha": "062762ab1e67dd2eeb5500dfd38785b93cb9b0e8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
