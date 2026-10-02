@@ -70,6 +70,18 @@
       ],
       "ast": [
         "aggregate/ast/062762ab1e67dd2eeb5500dfd38785b93cb9b0e8/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/062762ab1e67dd2eeb5500dfd38785b93cb9b0e8.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "1.26",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
